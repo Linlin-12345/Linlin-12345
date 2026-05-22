@@ -1,10 +1,30 @@
-- 👋 Hi, I’m Lin 
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Civil Engineering
-- 💞️ I’m looking to collaborate on discussion 
-- 📫 How to reach me ... andersonlin961@gmail.com
+### Hi, I'm Lin Htet Aung 👋
 
-<!---
-Linlin-12345/Linlin-12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🎓 MSc Business Analytics @ Trinity College Dublin — graduating 2026  
+🏗️ BEng Civil Engineering (First Class Hons) · University of Portsmouth  
+💻 CS Associate Degree in progress · University of the People  
+
+---
+
+🔭 Currently building: **Carbon-Aware AI Scheduling** — ESG analytics on U.S. electricity grid data  
+🌱 Interested in: data engineering, process automation, sustainable supply chain analytics  
+🤝 Open to: internship / full-time roles in analytics, fintech ops, or process transformation  
+
+---
+
+**Languages & Tools**  
+`Python` `SQL` `Power BI` `Excel / SPSS` `Git` `Scikit-learn`
+
+---
+
+**Featured Project**  
+⚡ [carbon-aware-ai-scheduling](https://github.com/Linlin-12345/carbon-aware-ai-scheduling) — Quantifying carbon exposure reduction via AI workload scheduling using EIA Form 930 data  
+*Python · Pandas · Power BI · ESG Analytics*
+
+---
+
+📫 linhtetaung0828@gmail.com  
+🔗 [linkedin.com/in/lin-htet-aung-884025200](https://linkedin.com/in/lin-htet-aung-884025200)  
+🌍 Based in Dublin, Ireland · Trilingual: English · Mandarin · Burmese
